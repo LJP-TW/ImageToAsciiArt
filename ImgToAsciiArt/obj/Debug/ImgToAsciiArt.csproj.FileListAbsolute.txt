@@ -1,9 +1,0 @@
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\bin\Debug\ImgToAsciiArt.exe.config
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\bin\Debug\ImgToAsciiArt.exe
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\bin\Debug\ImgToAsciiArt.pdb
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.csprojResolveAssemblyReference.cache
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.Form1.resources
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.Properties.Resources.resources
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.csproj.GenerateResource.Cache
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.exe
-D:\Visual Studio Project\C#\ImgToAsciiArt\ImgToAsciiArt\ImgToAsciiArt\obj\Debug\ImgToAsciiArt.pdb
